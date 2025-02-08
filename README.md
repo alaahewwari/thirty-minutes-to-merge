@@ -6,7 +6,7 @@ You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+This fun open source game was cloned from: https://alaahewwari.github.io/thirty-minutes-to-merge/
 
 Slide Deck: [Branching Strategies.pdf](https://github.com/githubschool/thirty-minutes-to-merge/files/6069357/Branching.Strategies.pdf)
 
